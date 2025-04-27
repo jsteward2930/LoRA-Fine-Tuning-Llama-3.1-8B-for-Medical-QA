@@ -1,17 +1,17 @@
-Overview
+## Overview
 This repository contains a Jupyter Notebook titled LoRA_Fine_Tuning_of_Llama_3_1_8B_for_Medical_QA.ipynb, which focuses on the fine-tuning of the Llama 3 model (8 billion parameters) using Low-Rank Adaptation (LoRA) techniques specifically for Medical Question Answering (QA) tasks.
 
-Key Features
+## Key Features
 Model: Utilizes the Llama 3 architecture, optimized for performance and efficiency in handling medical-related queries.
 Fine-Tuning Methodology: Implements LoRA, a technique that allows for efficient adaptation of large language models with reduced computational resources.
 Application: Tailored for Medical QA, enhancing the model's ability to understand and respond to healthcare-related questions accurately.
 This notebook serves as a comprehensive guide for researchers and practitioners interested in leveraging advanced machine learning techniques for medical applications. It includes detailed instructions, code snippets, and insights into the fine-tuning process, making it a valuable resource for those looking to implement similar methodologies in their own projects.
 
 Installation
-Installation
+## Installation
 To set up the environment for running the LoRA_Fine_Tuning_of_Llama_3_1_8B_for_Medical_QA.ipynb notebook, please follow the steps below:
 
-Prerequisites
+## Prerequisites
 Before you begin, ensure you have the following installed on your machine:
 
 Python 3.7 or higher: This project is compatible with Python versions 3.7 and above. You can download Python from the official website.
@@ -21,13 +21,13 @@ Jupyter Notebook: This is required to run the .ipynb file. You can install it us
 pip install notebook
 Git: If you plan to clone the repository, ensure Git is installed. You can download it from git-scm.com.
 
-Clone the Repository
+## Clone the Repository
 To get the project files, clone the repository using the following command:
 
 git clone https://github.com/yourusername/repository-name.git
 Replace yourusername and repository-name with the appropriate values.
 
-Install Required Packages
+## Install Required Packages
 Navigate to the cloned repository directory:
 
 cd repository-name
@@ -47,18 +47,18 @@ Now, install the necessary packages:
 pip install -r requirements.txt
 If a requirements.txt file is not provided, you may need to manually install the packages used in the notebook.
 
-Launch Jupyter Notebook
+## Launch Jupyter Notebook
 Once the installation is complete, you can launch Jupyter Notebook with the following command:
 
 jupyter notebook
 This will open a new tab in your web browser. From there, navigate to the LoRA_Fine_Tuning_of_Llama_3_1_8B_for_Medical_QA.ipynb file and start working with the notebook.
 
-Additional Notes
+## Additional Notes
 Ensure that your environment has access to the necessary hardware (e.g., GPU) if required for fine-tuning tasks.
 Refer to the notebook for any specific configurations or additional dependencies that may be needed.
 By following these steps, you should be able to successfully set up the environment to run the fine-tuning notebook.
 
-Usage
+
 ## Usage
 
 This repository contains a Jupyter Notebook titled `LoRA_Fine_Tuning_of_Llama_3_1_8B_for_Medical_QA.ipynb`, which demonstrates how to fine-tune the Llama 3 model (8B parameters) specifically for medical question-answering tasks using Low-Rank Adaptation (LoRA).
