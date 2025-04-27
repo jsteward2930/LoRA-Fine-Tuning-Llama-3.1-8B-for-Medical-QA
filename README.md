@@ -95,7 +95,7 @@ For further assistance or to report issues, please refer to the Issues section o
 
 ## Code of Conduct
 
-```markdown
+markdown
 # Code of Conduct
 
 ## Introduction
@@ -177,7 +177,7 @@ For more information or inquiries, please refer to the contact details provided 
 
 ## Acknowledgments
 
-```markdown
+
 ## Acknowledgments
 
 We would like to express our gratitude to the following individuals and organizations for their contributions and support in the development of this project:
